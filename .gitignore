@@ -11,3 +11,4 @@ node_modules/
 .idea/
 exampleSite/resources/
 exampleSite/public/
+.DS_Store
